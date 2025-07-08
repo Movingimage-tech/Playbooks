@@ -4,10 +4,12 @@
 
 [] Determine the infected host  
 [] Isolate the host from the network  
-  - Shutdown or otherwise disconnect from the network  
+  - Shutdown or otherwise disconnect from the network   
+
 [] Determine the extent of the encryption  
   - [] Did they encrypt everything or just files folders  
-  - [] Document what files/folders have been encrypted  
+  - [] Document what files/folders have been encrypted   
+
 [] Verify the spread of the infection. (Did other workstations become infected?)  
 [] Remove all infected machine from the network.  
 [] Determine if the server itself has been infected  
