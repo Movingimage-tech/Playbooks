@@ -15,6 +15,7 @@
 [ ] Determine if the server itself has been infected  
 [ ] **Only** after all the infected machines have been removed from the network, begin restoration efforts.  
  - This may include rebuilding of the infected servers and a full restore from backup  
+
 [ ] Determine the source of the infection on the infected host  
   - phishing/spear phishing  
   - drive by from a website  
